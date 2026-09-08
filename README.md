@@ -32,6 +32,8 @@ This module contains contracts only. It does not start modules, host HTTP routes
 
 There are no project or runtime dependencies beyond `net48`. Consumers should reference the same compatible major API line and must not ship private incompatible copies of these types.
 
+External dependencies: none. Unity, Derail Valley and third-party mod types are forbidden from this contract assembly.
+
 ## Build
 
 ```powershell
