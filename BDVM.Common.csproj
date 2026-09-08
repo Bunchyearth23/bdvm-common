@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>BDVM.Common</AssemblyName>
+    <RootNamespace>BDVM.Common</RootNamespace>
+  </PropertyGroup>
+</Project>
